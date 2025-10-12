@@ -1,70 +1,31 @@
-Olá, sou o Daniel Martins 👋
-https://img.shields.io/github/followers/danmartinsisss?style=social
-https://img.shields.io/badge/LinkedIn-Connect-blue
+# Olá, sou o Daniel Martins 👋
 
-🚀 Desenvolvedor Full-Stack & Criador de Soluções Digitais
-Especialista em desenvolvimento de sites e aplicativos que transformam ideias em realidade digital. Combino expertise técnica com visão estratégica para entregar projetos que impulsionam negócios.
+## Sobre Mim
 
-🛠️ Tech Stack
-🌐 Desenvolvimento de Sites & Frontend
-https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white
-https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
-https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white
-https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
-https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
+🚀 Sou desenvolvedor com experiência em múltiplas linguagens, frameworks e tecnologias. Meu foco está no desenvolvimento de software e aplicativos, abrangendo:
 
-🔧 Backend & Databases
-https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
-https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white
-https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white
-https://img.shields.io/badge/ADVPL-0078D4?style=for-the-badge
-https://img.shields.io/badge/TL++-00599C?style=for-the-badge
+### 💻 Linguagens e Tecnologias:
+- 📱 **Flutter**
+- 🎨 **CSS**
+- 🌐 **HTML**
+- 🅰️ **Angular**
+- ⚛️ **React**
+- 📜 **TypeScript**
+- 🐍 **Python**
+- 🌶️ **Flask**
+- ⚙️ **ADVPL**
+- ⚙️ **TL++**
+- 🗄️ **Banco de Dados Oracle**
 
-💼 Serviços Profissionais
-🎯 Especialidades:
-🚀 Sites Institucionais - Presença digital profissional
+### 🛠️ Áreas de Atuação:
+- 🔗 Desenvolvimento de **APIs** robustas e escaláveis.
+- 📱 Criação de **aplicativos móveis** utilizando Flutter e frameworks web.
+- 💻 Soluções para **front-end** e **back-end** com Angular, React, Flask, entre outras tecnologias.
 
-📱 Aplicativos Mobile - Soluções cross-platform
+### 📚 Filosofia:
+Sempre em busca de novas formas de aprender e evoluir, aplicando continuamente os conhecimentos adquiridos. Acredito no poder do aprendizado constante para resolver problemas e criar soluções inovadoras.
 
-🔗 APIs RESTful - Integrações robustas e escaláveis
+Além disso, sou professor de inglês há mais de 10 anos, o que aprimora minhas habilidades de comunicação e ensino, facilitando o trabalho em equipe e a troca de ideias.
 
-🛒 E-commerce - Lojas virtuais completas
-
-🌐 Sistemas Web - Aplicações sob medida
-
-✅ O que ofereço:
-Design responsivo que funciona em todos os dispositivos
-
-Performance e velocidade de carregamento
-
-Código limpo e de fácil manutenção
-
-Suporte contínuo pós-entrega
-
-💡 Por que trabalhar comigo?
-"tohu vabohu (תֹהוּ וָבֹהוּ) " - Bereshit 1:2
-
-🎓 Diferenciais Únicos:
-
-+10 anos como professor de inglês - Comunicação clara e didática
-
-Visão estratégica - Entendo as necessidades do seu negócio
-
-Entrega no prazo - Compromisso com resultados
-
-Transparência total - Você acompanha cada etapa do projeto
-
-📫 Vamos transformar sua ideia em realidade?
-https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
-https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white
-https://img.shields.io/badge/Portfolio-%2523000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139
-
-<div align="center">
-💼 Pronto para criar seu site profissional?
-Vamos conversar sobre seu projeto!
-
-📧 danmartinsisss@gmail.com | 🔗 LinkedIn acima
-
-</div>
+## 📫 Como me encontrar:
+- ✉️ Email: [danmartinsisss@gmail.com](mailto:danmartinsisss@gmail.com)
