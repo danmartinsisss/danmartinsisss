@@ -20,7 +20,7 @@
 ### 🛠️ Áreas de Atuação:
 - 🔗 Desenvolvimento de **APIs** robustas e escaláveis.
 - 📱 Criação de **aplicativos móveis** utilizando Flutter e frameworks web.
-- 💻 Soluções para **front-end** e **back-end** com Angular, React, Flask, entre outras tecnologias.
+- 💻 Soluções para **front-end** e **back-end** com Angular, React, Flask, Django entre outras tecnologias.
 
 ### 📚 Filosofia:
 Sempre em busca de novas formas de aprender e evoluir, aplicando continuamente os conhecimentos adquiridos. Acredito no poder do aprendizado constante para resolver problemas e criar soluções inovadoras.
