@@ -1,4 +1,4 @@
-# Olá, sou o Daniel Martins 👋
+# Olá, sou o Daniel Martins
 
 ## Sobre Mim
 
