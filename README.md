@@ -49,3 +49,14 @@ I’m open to remote opportunities as a **Backend Developer or Contractor**.
 
 ## ⚡ About Me
 I enjoy solving real business problems through technology, focusing on practical, efficient, and scalable solutions.
+
+
+![Python](https://img.shields.io/badge/Python-Backend-blue)
+![API](https://img.shields.io/badge/API-Development-green)
+![SQL](https://img.shields.io/badge/SQL-Database-orange)
+![Automation](https://img.shields.io/badge/Automation-Processes-red)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=danmartinsisss&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danmartinsisss&layout=compact&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com/?user=danmartinsisss&theme=dark)
