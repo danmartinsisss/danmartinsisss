@@ -1,31 +1,51 @@
-# Olá, sou o Daniel Martins
+# 👋 Hi, I'm Daniel Martins
 
-## Sobre Mim
+Backend Developer focused on API development, system integration, and process automation.
 
-🚀 Sou desenvolvedor com experiência em múltiplas linguagens, frameworks e tecnologias. Meu foco está no desenvolvimento de software e aplicativos, abrangendo:
+I specialize in building scalable backend solutions using Python, working with data processing, ERP systems, and real-world business applications.
 
-### 💻 Linguagens e Tecnologias:
-- 📱 **Flutter**
-- 🎨 **CSS**
-- 🌐 **HTML**
-- 🅰️ **Angular**
-- ⚛️ **React**
-- 📜 **TypeScript**
-- 🐍 **Python**
-- 🌶️ **Flask**
-- ⚙️ **ADVPL**
-- ⚙️ **TL++**
-- 🗄️ **Banco de Dados Oracle**
+---
 
-### 🛠️ Áreas de Atuação:
-- 🔗 Desenvolvimento de **APIs** robustas e escaláveis.
-- 📱 Criação de **aplicativos móveis** utilizando Flutter e frameworks web.
-- 💻 Soluções para **front-end** e **back-end** com Angular, React, Flask, Django entre outras tecnologias.
+## 🚀 What I Do
+- Build APIs and backend systems using Python
+- Integrate systems and automate workflows
+- Process and transform data (ETL)
+- Customize ERP systems (TOTVS Protheus)
+- Improve business operations through technology
 
-### 📚 Filosofia:
-Sempre em busca de novas formas de aprender e evoluir, aplicando continuamente os conhecimentos adquiridos. Acredito no poder do aprendizado constante para resolver problemas e criar soluções inovadoras.
+---
 
-Além disso, sou professor de inglês há mais de 10 anos, o que aprimora minhas habilidades de comunicação e ensino, facilitando o trabalho em equipe e a troca de ideias.
+## 🛠️ Tech Stack
+- Python (Flask)
+- SQL (Oracle, MySQL, PostgreSQL)
+- REST APIs
+- Data Processing (Pandas, ETL)
+- JavaScript (React, Angular)
+- Git & Version Control
 
-## 📫 Como me encontrar:
-- ✉️ Email: [danmartinsisss@gmail.com](mailto:danmartinsisss@gmail.com)
+---
+
+## 💼 Experience
+Currently working as a **Senior System Analyst**, developing backend systems, internal tools, and automation solutions in a business-critical environment.
+
+Strong experience with:
+- System integration
+- Process automation
+- ERP customization
+- Data-driven solutions
+
+---
+
+## 🌍 Open to Work
+I’m open to remote opportunities as a **Backend Developer or Contractor**.
+
+---
+
+## 📫 Contact
+- Email: danmartinsisss@gmail.com
+- LinkedIn: https://www.linkedin.com/in/daniel-martins-da-silva-5087b43b4/
+
+---
+
+## ⚡ About Me
+I enjoy solving real business problems through technology, focusing on practical, efficient, and scalable solutions.
